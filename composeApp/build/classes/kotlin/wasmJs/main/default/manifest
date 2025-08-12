@@ -1,0 +1,12 @@
+abi_version=2.2.0
+builtins_platform=WASM
+compiler_version=2.2.0
+depends=components.resources\:library components.ui-tooling-preview\:library org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel-compose org.jetbrains.androidx.lifecycle\:lifecycle-runtime-compose org.jetbrains.compose.animation\:animation org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.compose.runtime\:runtime-saveable org.jetbrains.compose.runtime\:runtime org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel-savedstate org.jetbrains.androidx.savedstate\:savedstate org.jetbrains.androidx.lifecycle\:lifecycle-runtime org.jetbrains.androidx.lifecycle\:lifecycle-common org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.compose.annotation-internal\:annotation androidx.annotation\:annotation kotlin org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util
+ir_signature_versions=1,2
+jsOutputName=composeApp
+language_features=+JsAllowImplementingFunctionInterface +JsAllowValueClassesInExternals +MultiPlatformProjects
+metadata_version=1.4.1
+serializedIrFileFingerprints=2kx4keqh4keww.3n8kcn7fudsuh 19d0618ztudvb.2krwzqz03699l 37jqeadzp1gn0.mlu7i9u0zyh2 20q22p4luaubm.32t53zzpw62mf 333wbeqy38j9y.1t0gekjuqq07k 1fosn797gje4g.kzyyk5vub0lt 16kjicjhqelf7.g7txabwouar2 2emaoookb3leg.3r9f5tm49zhlh 2l17bo6j75jg4.1gv75oe3odl1o
+serializedKlibFingerprint=383s9nabcdzkr.2muavc0in5qmt
+unique_name=KotlinPrimeraClase\:composeApp
+wasm_targets=wasm-js
